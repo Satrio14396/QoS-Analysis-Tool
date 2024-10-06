@@ -15,3 +15,7 @@ Proyek ini bertujuan untuk menganalisis kualitas layanan (QoS) dari situs `https
 - Latency
 - Jitter
 - Packet Loss
+
+![Screenshot 2024-10-06 123645](https://github.com/user-attachments/assets/86913b15-081b-416d-b29d-ff13b1858d6a)
+
+
